@@ -1,0 +1,6 @@
+{"_id":"3ZtjSHJzgHxk6Db5","binary":false,"blue":0,"description":"LED Strip an der Decke links","green":0,"red":0,"title":"RGB Strip Links","type":"RGB","variable1024":0}
+{"_id":"Ba2NtGOrueIKkLNK","binary":false,"blue":0,"description":"Warmweiß LED rechts","green":0,"red":0,"title":"LED Weiß rechts","type":"VARIABLE_1024","variable1024":502}
+{"_id":"Q4x3tDq90tZd6G5U","binary":false,"blue":0,"description":"LED Strip an der Decke links","green":0,"red":0,"title":"RGB Strip Rechts","type":"RGB","variable1024":0}
+{"_id":"pW0azM4hugyfeuUh","binary":true,"blue":0,"description":"Lampe am Bett","green":0,"red":0,"title":"Bettlampe","type":"BINARY","variable1024":0}
+{"_id":"pZ5TyG6fjt2nTYgr","binary":false,"blue":0,"description":"Lautsprecher am Bett","green":0,"red":0,"title":"LED Weiß links","type":"VARIABLE_1024","variable1024":513}
+{"_id":"zPQEZZYyU1O5M18a","binary":false,"blue":0,"description":"Lautsprecher am Bett","green":0,"red":0,"title":"Lautsprecher","type":"BINARY","variable1024":0}

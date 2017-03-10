@@ -1,0 +1,14 @@
+[
+    {
+        "id": "l1",
+        "title": "Lampe 1",
+        "value": "1024",
+        "type": "VARIABLE_1024"
+    },
+    {
+        "id": "l2",
+        "title": "Lampe 2",
+        "value": "true",
+        "type": "BINARY"
+    }
+]

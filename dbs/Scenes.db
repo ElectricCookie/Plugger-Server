@@ -1,0 +1,5 @@
+{"title":"Bettzeit","description":"Nachttischlampe und Warmweiß LEDs","priority":100,"deviceStates":[{"red":0,"green":0,"blue":0,"variable1024":1023,"binary":false,"type":"VARIABLE_1024","_id":"pZ5TyG6fjt2nTYgr"}],"active":false,"_id":"0nF7uRQznr4jyQVn"}
+{"_id":"LJ1Q6cvLs31PcT4z","active":false,"description":"Aktiv bei Nacht","deviceStates":[],"priority":200,"title":"Nachtruhe"}
+{"title":"Bettzeit","description":"Nachttischlampe und Warmweiß LEDs","priority":100,"deviceStates":[{"red":0,"green":0,"blue":0,"variable1024":1023,"binary":false,"type":"VARIABLE_1024","_id":"pZ5TyG6fjt2nTYgr"}],"active":true,"_id":"0nF7uRQznr4jyQVn"}
+{"title":"Bettzeit","description":"Nachttischlampe und Warmweiß LEDs","priority":100,"deviceStates":[{"red":0,"green":0,"blue":0,"variable1024":1023,"binary":false,"type":"VARIABLE_1024","_id":"pZ5TyG6fjt2nTYgr"}],"active":false,"_id":"0nF7uRQznr4jyQVn"}
+{"_id":"LJ1Q6cvLs31PcT4z","active":true,"description":"Aktiv bei Nacht","deviceStates":[],"priority":200,"title":"Nachtruhe"}

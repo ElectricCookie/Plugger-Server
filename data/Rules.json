@@ -1,0 +1,17 @@
+[
+    {
+        "id": "r1",
+        "title": "Morning light",
+        "scenes": [
+            "s1"
+        ],
+        "condition": {
+            "type": "TIME",
+            "operator": "GT",
+            "value": "40",
+            "children": []
+        },
+        "state": true,
+        "priority": 0
+    }
+]
